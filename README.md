@@ -13,12 +13,16 @@
 - game development with unity
 --------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me ...
--https://web.facebook.com/groups/523006431633470/user/100002429077214 
--@sr_darocha instagram (i am barber and dev)
--estebandarocha7@gmail.com
--WhatsApp +57 317 328 9040  ( answered faster )
+- 
+-Facebook: https://web.facebook.com/groups/523006431633470/user/100002429077214 
 -
--Speak only for GoogleMeet
+- @sr_darocha instagram (i am barber and dev)
+- 
+- estebandarocha7@gmail.com
+- 
+- WhatsApp +57 317 328 9040  ( answered faster )
+-
+-Speak only for GoogleMeet / Only text in WhatsApp
 --------------------------------------------------------------------------------------------------------------
 <!---
 seinp/seinp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
