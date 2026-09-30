@@ -71,7 +71,7 @@ Ingeniería en Sistemas (carrera completa, tesis pendiente) · Clases privadas d
 
 Disponible para nuevos proyectos. Contame qué necesitás y te digo si puedo con eso; respondo el mismo día.
 
-- ✉️ **estebandarocha7@gmail.com**
+- ✉️ **SeinpStudio@gmail.com**
 - 💬 WhatsApp: +57 317 328 9040 (solo texto)
 - 🌐 [seinp.github.io](https://seinp.github.io/)
 
@@ -86,6 +86,6 @@ I build the complete product and put it into production: from the art and the co
 
 Available for: websites, Android apps (Flutter), backend and infrastructure, online catalogs and orders, AI automation (agents, MCP servers), game development, branding and product documentation.
 
-Portfolio: **https://seinp.github.io/** · Email: **estebandarocha7@gmail.com**
+Portfolio: **https://seinp.github.io/** · Email: **SeinpStudio@gmail.com**
 
 </details>
