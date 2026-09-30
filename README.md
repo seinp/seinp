@@ -69,7 +69,7 @@ Ingeniería en Sistemas (carrera completa, tesis pendiente) · Clases privadas d
 
 ## Hablemos de tu proyecto
 
-Disponible para nuevos proyectos. Contame qué necesitás y te digo si puedo con eso; respondo el mismo día.
+Disponible para nuevos proyectos. Cuéntame qué necesitas y te digo sin rodeos si puedo hacerlo; respondo el mismo día.
 
 - ✉️ **SeinpStudio@gmail.com**
 - 💬 WhatsApp: +57 317 328 9040 (solo texto)
