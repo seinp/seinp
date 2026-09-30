@@ -13,7 +13,7 @@
   <a href="https://seinp.itch.io/">itch.io</a>
 </p>
 
-> **Construyo el producto completo y lo pongo en producción.**
+> **De la idea a producción.**
 > Del arte y el concepto hasta el backend, el servidor y el cliente que paga.
 > Dueño de FaenApp y cofundador de Monito Amarillo.
 
